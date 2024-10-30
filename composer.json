@@ -1,0 +1,9 @@
+{
+  "autoload": {
+    "psr-4": {
+      "InspireLabs\\InpostItaly\\": "src/InspireLabs/InpostItaly"
+    }
+  },
+  "require": {
+  }
+}

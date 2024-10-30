@@ -1,0 +1,195 @@
+.easypack-shipping-method-logo img {
+	max-width: 100px;
+	max-height: 40px;
+	display: block;
+	border:none;
+}
+
+.sheepla-widget-fullscreen {
+	position: fixed;
+}
+
+.inpost_returns_button {
+	background:linear-gradient(#FFE462, #FFA900) #FFE462;
+	border:1px solid #FECB2C;
+	box-shadow:#666666 0 1px 1px;
+	color:#000000  !important;
+	display:inline-block  !important;
+	font-size:18px;
+	letter-spacing:0;
+	line-height:18px;
+	text-decoration:none  !important;
+	text-shadow:#FFFFFF 1px 1px 3px;
+	text-transform:uppercase;
+	border-radius:8px;
+	display:block;
+	font-size:20px;
+	margin:20px auto 0;
+	padding:13px 42px !important;
+}
+
+#selected-parcel-machine {
+
+}
+
+.font-height-600 {
+	font-weight: 600;!important;
+}
+
+.hidden {
+	display: none;!important;
+}
+
+#selected-parcel-machine {
+	min-width: fit-content;
+}
+
+.italic {
+	font-style: italic;
+}
+
+.easypack-parcel-machine-select {
+	padding-bottom: 20px;
+}
+
+.easypack-shipping-method-logo {
+	/*top: 13px;*/
+	position: relative;
+}
+
+.woocommerce-checkout-review-order-table .easypack-shipping-method-logo {
+	position: relative;
+	top: -3px;
+}
+
+.calculated_shipping .easypack-shipping-method-logo {
+	position: relative;
+	top: -3px;
+}
+
+
+.woocommerce-button.wp-element-button.button.easypack_tracking {
+    margin: 5px;
+}
+
+.woocommerce-button.wp-element-button.button.fast_return {
+    margin: 5px;
+}
+
+.types-list {
+    z-index: 10000;
+    position: relative;
+    background: #f7f6f1;
+    background-color: #f7f6f1;
+}
+
+
+.list-widget {
+    background-color: #ece9e2 !important;
+}
+
+
+.easypack-widget .easypack-search-widget {
+    margin-bottom: -30px !important;
+}
+
+#easypack_selected_point_data {
+    border: 2px solid #6cdd6e;
+    padding: 10px;
+    margin-top: 10px;
+    border-radius: 7px;
+}
+
+#defined_inpost_italy_courier_description {
+    font-size: 12px;
+    font-weight: unset;
+}
+
+#searchWidget > .search-group > .search-group-btn > .btn-search {
+    background-color: #fff ! important;
+}
+
+
+#listvillages {
+    margin-top: 40px;
+    background-color: #faf289;
+}
+
+.easypack-custom-shipping-method-logo > img {
+    max-width: 100px;
+    max-height: 40px;
+    display: block;
+    border:none;
+    margin-left: 5px;
+    margin-bottom: 15px
+}
+
+.easypack-custom-shipping-method-logo {
+    /*top: 13px;*/
+    position: relative;
+}
+
+.woocommerce-checkout-review-order-table .easypack-custom-shipping-method-logo {
+    position: relative;
+    top: -3px;
+}
+
+.calculated_shipping .easypack-shipping-custom-method-logo {
+    position: relative;
+    top: -3px;
+}
+
+
+.custom-my-location {
+    margin-bottom: 20px !important;
+}
+
+input[type="search"]::-webkit-search-cancel-button {
+  -webkit-appearance: none;
+  height: 24px;
+  width: 24px;
+  margin-left: .4em;
+  background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='%23777'><path d='M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z'/></svg>");
+  cursor: pointer;
+}
+
+.hidden-punto-data {
+    display: none;!important;
+}
+
+.easypack_italy_geowidget {
+    border: 0 !important;
+    font-size: 19px !important;
+    box-shadow: 0 15px 30px -18px rgba(0,0,0,90%) !important;
+    color: #fff;
+    display: block;
+    margin: auto;
+    text-align: center;
+    margin-bottom: 20px;
+    background-color: #FCC905;
+    border-radius: 3px;
+    line-height: 1em;
+    padding: 7px 10px 12px 10px;
+    max-width: 160px;
+}
+
+.easypack_italy_geowidget:hover {
+    cursor:pointer;
+}
+
+.inpost-italy-thankyou-page {
+    padding-left: 30px;
+}
+
+.inpost-italy-parcel-locker-wrap {
+    display:none;
+}
+
+.easypack-italy-woocommerce-checkout-block-alert {
+    border: 2px dotted #f00;
+    padding: 7px;
+}
+
+.easypack-italy-woocommerce-checkout-block-alert:hover {
+    cursor: pointer;
+}

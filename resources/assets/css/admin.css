@@ -1,0 +1,239 @@
+.easypack_rates {
+    max-width: 600px;
+}
+
+.easypack_rates td {
+    max-width: 60px;
+}
+
+.easypack_rates .input-text {
+    width: 100%;
+}
+
+.easypack_rates .price {
+    width: 60px;
+}
+
+.easypack_rates .country {
+    padding-left: 10px;
+}
+
+.easypack_rates .action {
+    width: 90px;
+}
+
+.easypack_rates .delete_rate {
+    width: 100%;
+    text-align: center;
+}
+
+#woocommerce_easypack_cross_border_parcel_machines_rates, #woocommerce_easypack_italy_parcel_machines_cod_rates {
+    max-width: 600px;
+}
+
+#woocommerce_easypack_cross_border_parcel_machines_rates .input-text {
+    width: 100%;
+}
+
+#woocommerce_easypack_italy_parcel_machines_rates {
+    max-width: 600px;
+}
+
+#woocommerce_easypack_italy_parcel_machines_rates .input-text {
+    width: 100%;
+}
+
+#woocommerce_easypack_cross_border_courier_rates {
+    max-width: 800px;
+}
+
+#woocommerce_easypack_cross_border_courier_rates .input-text {
+    width: 100%;
+}
+
+#woocommerce_easypack_cross_border_courier_rates .price {
+    width: 60px;
+}
+
+#woocommerce_easypack_cross_border_courier_rates .country {
+    padding-left: 10px;
+}
+
+#easypack_error {
+    font-weight: bold;
+    color: red;
+}
+
+#easypack_error ul li {
+    list-style-type: circle;
+    margin-left: 30px;
+}
+
+ul.easypack_error li {
+    list-style-type: circle;
+    margin-left: 30px;
+}
+
+.form-row label {
+    display: inline;
+}
+
+.form-row input[type=number], .form-row input[type=text], .form-row select {
+    width: auto;
+}
+
+.shipment_costs_wrapper span {
+    font-size: 11px;
+
+}
+
+.hidden {
+    display: none;
+}
+
+#send_method_field {
+    top: -2px;
+    position: relative;
+}
+
+.graytext {
+    color: graytext;
+
+}
+
+.padding-bottom15 {
+    padding-bottom: 15px !important;
+}
+
+.easypack-disabled {
+    pointer-events: none;
+    color: graytext !important;
+}
+
+.easypack-disabled span {
+    pointer-events: none;
+    color: graytext !important;
+}
+
+.admin-label {
+    display:inline-block!important;
+    *display: inline!important;     /* for IE7*/
+    zoom:1!important;              /* for IE7*/
+    float: left!important;
+    padding-top: 5px!important;
+    text-align: right!important;
+    width: 140px!important;
+}
+
+.admin-input {
+    margin-top: 5px!important;
+    margin-bottom: 5px!important;
+    display:inline-block!important;
+    *display: inline!important;     /* for IE7*/
+    zoom:1!important;              /* for IE7*/
+    vertical-align:middle!important;
+    margin-left:20px!important;
+}
+
+.max-width-select {
+    max-width: 251px!important;
+}
+
+#easypack_parcels  .required {
+    display: none !important;
+}
+
+#easypack_parcels {
+    margin-left: 0!important;
+}
+
+#easypack_parcels .woocommerce-input-wrapper {
+    display: block;!important;
+}
+
+.easypack_parcel select {
+    width: 160px !important;
+}
+
+#send_method {
+    width: 150px;
+}
+
+#dispatch_point {
+    width: 500px;
+}
+
+.types-list {
+    z-index: 10000;
+    position: relative;
+    background: #f7f6f1;
+    background-color: #f7f6f1;
+}
+
+.inpost_page_easypack_shipment_italy > thead > tr > #attributes {
+    width: 30px;
+}
+
+.wc-enhanced-select > .woocommerce-input-wrapper > #service {
+    width: 252px;
+}
+
+.list-widget {
+    background-color: #ece9e2 !important;
+}
+
+
+.easypack-widget .easypack-search-widget {
+    margin-bottom: -30px !important;
+}
+
+.easypack_access_notice {
+    display: none;
+}
+
+.easypack_access_notice.warning {
+    color: #ec3838;
+    display: block;
+}
+
+
+
+#searchWidget > .search-group > .search-group-btn > .btn-search {
+    background-color: #fff ! important;
+}
+
+#listvillages {
+    margin-top: 40px;
+    background-color: #faf289;
+}
+
+
+input[type="search"]::-webkit-search-cancel-button {
+    -webkit-appearance: none;
+    height: 24px;
+    width: 24px;
+    margin-left: .4em;
+    background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='%23777'><path d='M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z'/></svg>");
+    cursor: pointer;
+}
+
+.inpost-italy_page_easypack_shipment_italy.widefat th#attributes {
+    width: 30px;
+}
+
+.inpost-italy_page_easypack_shipment_italy.widefat th#reference_number {
+    width: 60px;
+}
+
+
+.inpost-italy_page_easypack_shipment_italy.widefat th#inpost_id {
+    width: 60px;
+}
+
+.inpost-italy_page_easypack_shipment_italy.widefat th#order {
+    width: 60px;
+}
+
+.inpost-italy_page_easypack_shipment_italy.widefat th#shipping_address {
+    width: 160px;
+}

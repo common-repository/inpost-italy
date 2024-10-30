@@ -1,0 +1,1010 @@
+# Copyright (C) 2022 InPost Italy
+# This file is distributed under the same license as the InPost Italy package.
+msgid ""
+msgstr ""
+"Project-Id-Version: InPost Italy 1.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/inpost-italy\n"
+"POT-Creation-Date: 2022-12-05 13:01:34+00:00\n"
+"PO-Revision-Date: 2024-06-03 16:56+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.2.2\n"
+
+msgid "Created"
+msgstr "Creato"
+
+msgid "Action"
+msgstr "Azione"
+
+msgid "Cancelled"
+msgstr "Annullato"
+
+msgid "Print"
+msgstr "Stampa"
+
+msgid "Page "
+msgstr "Pagina "
+
+msgid "InPost"
+msgstr "InPost"
+
+msgid "API URL"
+msgstr "URL dell'API"
+
+msgid "New dispatch point"
+msgstr "Nuovo punto di spedizione"
+
+msgid "Parcel Locker"
+msgstr "Punto Pacco"
+
+msgid "Courier"
+msgstr "Corriere"
+
+msgid "Logging in"
+msgstr "Entrando"
+
+msgid "Login"
+msgstr "Login"
+
+msgid "Organization ID"
+msgstr "ID dell'organizzazione"
+
+msgid "Token"
+msgstr "Token"
+
+msgid "API type"
+msgstr "Tipo di API"
+
+msgid "Production"
+msgstr "Produzione"
+
+msgid "Sandbox"
+msgstr "Sandbox"
+
+msgid "Insurance"
+msgstr "Assicurazione"
+
+msgid "Default insurance amount"
+msgstr "Importo dell'assicurazione predefinita"
+
+msgid "Send options"
+msgstr "Opzioni di invio"
+
+msgid "Default package size"
+msgstr "Dimensione del pacco di default"
+
+msgid "Default send method"
+msgstr "Metodo di spedizione di default"
+
+msgid "Default send parcel point"
+msgstr "Punto di invio pacco predefinito"
+
+msgid "Dispatch point"
+msgstr "Punto di spedizione"
+
+msgid "Default dispatch point"
+msgstr "Punto di spedizione predefinito"
+
+msgid "Sender"
+msgstr "Mittente"
+
+msgid "First Name"
+msgstr "Nome di battesimo"
+
+msgid "Last Name"
+msgstr "Cognome"
+
+msgid "Company name"
+msgstr "Nome Azienda"
+
+msgid "Street"
+msgstr "Via"
+
+msgid "street"
+msgstr "via"
+
+msgid "Building no"
+msgstr "Numero civico"
+
+msgid "Post code"
+msgstr "Codice postale"
+
+msgid "Address 1"
+msgstr "Indirizzo 1"
+
+msgid "Address 2"
+msgstr "Indirizzo 2"
+
+msgid "City"
+msgstr "Città"
+
+msgid "city"
+msgstr "città"
+
+msgid "Email"
+msgstr "Email"
+
+msgid "Phone"
+msgstr "Telefono"
+
+msgid "InPost API configuration error: "
+msgstr "Errore di configurazione dell'API InPost: "
+
+msgid "There are some validation errors on sender data:"
+msgstr "Ci sono alcuni errori di convalida sui dati del mittente:"
+
+msgid "There are some validation errors on default dispatch point data:"
+msgstr "Sono presenti alcuni errori di convalida sui dati del punto di spedizione predefinito:"
+
+msgid "No"
+msgstr "No"
+
+msgid "Yes"
+msgstr "Sì"
+
+msgid "Parcel Point "
+msgstr "Armadietto per pacchi "
+
+msgid "Parcel Locker "
+msgstr "Armadietto per pacchi "
+
+msgid "Print label"
+msgstr "Stampa etichetta"
+
+msgid "Print return label"
+msgstr "Stampa l'etichetta di reso"
+
+msgid "PUDO"
+msgstr "PUDO"
+
+msgid "Tracking number"
+msgstr "Codice di tracciamento spedizione"
+
+msgid "Order ID"
+msgstr "ID ordine"
+
+msgid "Inpost ID"
+msgstr "Inpost ID"
+
+msgid "Reference number"
+msgstr "Numero di riferimento"
+
+msgid "Status"
+msgstr "Stato"
+
+msgid "Service"
+msgstr "Servizio"
+
+msgid "Dimensions"
+msgstr "Dimensioni"
+
+msgid "Send method"
+msgstr "Metodo di invio"
+
+msgid "Shipping address"
+msgstr "Indirizzo di spedizione"
+
+msgid "Dispatch order status"
+msgstr "Stato dell'ordine di spedizione"
+
+msgid "Dispatch point name"
+msgstr "Nome del punto di spedizione"
+
+msgid "Actions"
+msgstr "Azioni"
+
+msgid "Refresh statuses now"
+msgstr "Aggiorna gli stati ora"
+
+msgid "Shipments"
+msgstr "Spedizioni"
+
+msgid "Error while creating manifest: "
+msgstr "Errore durante la creazione del manifest: "
+
+msgid "All"
+msgstr "Tutto"
+
+msgid "InPost Shipments"
+msgstr "Spedizioni InPost"
+
+msgid "Dispatch point "
+msgstr "Punto di spedizione "
+
+msgid "From the list, select the packages that you want to be sent by courier."
+msgstr "Dall'elenco, seleziona i pacchi che vuoi vengano spediti tramite corriere."
+
+msgid "Get courier"
+msgstr "Prendi il corriere"
+
+msgid "Filters"
+msgstr "Filtri"
+
+msgid "Send method "
+msgstr "Metodo di invio "
+
+msgid "Shipment status"
+msgstr "Stato della spedizione"
+
+msgid "Receiver email"
+msgstr "E-mail del destinatario"
+
+msgid "Receiver phone"
+msgstr "Telefono ricevente"
+
+msgid "Filter parcels"
+msgstr "Filtra pacchi"
+
+msgid "Actions for selected items"
+msgstr "Azioni per elementi selezionati"
+
+msgid "Get stickers"
+msgstr "Ottieni etichette"
+
+msgid "Get labels"
+msgstr "Ottieni etichette"
+
+msgid "Get label(s)"
+msgstr "Ottieni etichette"
+
+msgid "Get label"
+msgstr "Ottieni etichetta"
+
+msgid "Get sticker"
+msgstr "Ottieni etichetta"
+
+msgid "Get return stickers"
+msgstr "Ottieni etichette di reso"
+
+msgid "Get return labels"
+msgstr "Ottieni etichette di reso"
+
+msgid "Get return label(s)"
+msgstr "Ottieni etichette di reso"
+
+msgid "From the list, select the packages that you want to be collected to be sent. If Courier has been chosen, the collection of your packages by a courier will be arranged."
+msgstr "Dall'elenco, seleziona i pacchi che desideri vengano ritirati per essere spediti. Se è stato scelto Corriere, verrà organizzato il ritiro dei tuoi pacchi da parte di un corriere."
+
+msgid "No parcels selected."
+msgstr "Nessun lotto selezionato."
+
+msgid "Recipient e-mail"
+msgstr "Destinatario dell'email"
+
+msgid "Recipient phone"
+msgstr "Telefono del destinatario"
+
+msgid "Address"
+msgstr "Indirizzo"
+
+msgid "Default parcel point"
+msgstr "Punto pacco predefinito"
+
+msgid "not valid"
+msgstr "non valido"
+
+msgid "invalid"
+msgstr "non valido"
+
+msgid "not found"
+msgstr "non trovato"
+
+msgid "invalid format"
+msgstr "formato non valido"
+
+msgid "required"
+msgstr "necessario"
+
+msgid "too many characters"
+msgstr "troppi caratteri"
+
+msgid "Action (cancel) can not be taken on shipment with status (confirmed)."
+msgstr "L'azione (annullamento) non può essere intrapresa sulla spedizione con stato (confermato)."
+
+msgid "There are some validation errors."
+msgstr "Sono presenti alcuni errori di convalida."
+
+msgid "Can not create sticker. You have not enough funds to pay for this parcel"
+msgstr "Impossibile creare l'adesivo. Non hai fondi sufficienti per pagare questo pacco"
+
+msgid "Invalid login or token"
+msgstr "Accesso o token non validi"
+
+msgid "Invalid login"
+msgstr "Login non valido"
+
+msgid "Token is missing or invalid."
+msgstr "Token mancante o non valido."
+
+msgid "Parcel Point is empty. Please fill in this field."
+msgstr "Il Parcel Point è vuoto. Si prega di compilare questo campo."
+
+msgid "Default send parcel locker: "
+msgstr "Blocco pacchi di invio predefinito: "
+
+msgid "Default send parcel point: "
+msgstr "Blocco pacchi di invio predefinito: "
+
+msgid "The transaction can not be completed due to the balance of your account"
+msgstr "La transazione non può essere completata a causa del saldo del tuo account"
+
+msgid "Bad API response. Check API URL"
+msgstr "Risposta API errata. Controlla l'URL dell'API"
+
+msgid "Invalid phone number. Valid phone number must contains 10 digits."
+msgstr "Numero di telefono invalido. Il numero di telefono valido deve contenere 10 cifre."
+
+msgid "Invalid phone number. Valid phone number must contains 9 digits and must not begins with 0."
+msgstr "Numero di telefono invalido. Il numero di telefono valido deve contenere 9 cifre e non deve iniziare con 0."
+
+msgid "Invalid phone number."
+msgstr "Numero di telefono invalido."
+
+msgid "InPost API configuration error:  "
+msgstr "Errore di configurazione dell'API InPost:  "
+
+msgid "Error while creating manifest:  "
+msgstr "Errore durante la creazione del manifest:  "
+
+msgid "Error while creating dispatch_order:  "
+msgstr "Errore durante la creazione di dispatch_order:  "
+
+msgid "stickers"
+msgstr "etichette"
+
+msgid "labels"
+msgstr "etichette"
+
+msgid "label(s)"
+msgstr "etichette"
+
+msgid "Settings"
+msgstr "Impostazioni"
+
+msgid "Documantation"
+msgstr "Documentazione"
+
+msgid "Support"
+msgstr "Supporto"
+
+msgid "Shipping %s"
+msgstr "Spedizione %s"
+
+msgid "Billing %s"
+msgstr "Fatturazione %s"
+
+msgid "Please enter a valid IT phone number."
+msgstr "Inserisci un numero di telefono IT valido."
+
+msgid "General settings"
+msgstr "Impostazioni generali"
+
+msgid "Enable/disable"
+msgstr "Abilita/disabilita"
+
+msgid "Method title"
+msgstr "Titolo del metodo"
+
+msgid "Free shipping"
+msgstr "Spedizione gratuita"
+
+msgid "Enter the amount of the contract, from which shipping will be free."
+msgstr "Inserisci l'importo del contratto, da cui la spedizione sarà gratuita."
+
+msgid "Flat rate"
+msgstr "Tasso fisso"
+
+msgid "Set a flat-rate shipping fee for the entire order."
+msgstr "Imposta una tariffa di spedizione forfettaria per l'intero ordine."
+
+msgid "Cost per order"
+msgstr "Costo per ordine"
+
+msgid "Based on"
+msgstr "Basato su"
+
+msgid "Select the method of calculating shipping cost. If the cost of shipping is to be calculated based on the weight of the cart and the products do not have a defined weight, the cost will be calculated incorrectly."
+msgstr "Seleziona il metodo di calcolo del costo di spedizione. Se il costo di spedizione deve essere calcolato in base al peso del carrello e i prodotti non hanno un peso definito, il il costo verrà calcolato in modo errato."
+
+msgid "Price"
+msgstr "Prezzo"
+
+msgid "Weight"
+msgstr "Il peso"
+
+msgid "There are some errors. Please fix it: <br>"
+msgstr "Ci sono alcuni errori. Per favore correggilo: <br>"
+
+msgid "Shipment created"
+msgstr "Spedizione creata"
+
+msgid "Parcel locker"
+msgstr "Punto di ritiro"
+
+msgid "Parcel point"
+msgstr "Punto pacco"
+
+msgid "InPost Courier"
+msgstr "Corriere InPost"
+
+msgid "Rates table"
+msgstr "Tabella delle tariffe"
+
+msgid "InPost Locker 24/7"
+msgstr "Punto InPost 24/7"
+
+msgid "InPost Point 24/7"
+msgstr "Punto InPost 24/7"
+
+msgid "Enter the amount of the order from which the shipping will be free. "
+msgstr "Inserisci l'importo dell'ordine a partire dal quale la spedizione sarà gratuita. "
+
+msgid "Parcel locker must be choosen."
+msgstr "Il punto del pacco deve essere scelto."
+
+msgid "Parcel point must be choosen."
+msgstr "Il punto del pacco deve essere scelto."
+
+msgid "Shipment canceled"
+msgstr "Spedizione annullata"
+
+msgid "Security check - bad nonce!"
+msgstr "Controllo di sicurezza - brutto nonce!"
+
+msgid "Track shipment"
+msgstr "Tracciare la spedizione"
+
+msgid "Shipment costs:"
+msgstr "Costi di spedizione:"
+
+msgid "Calculated charge amount:"
+msgstr "Importo dell'addebito calcolato:"
+
+msgid "Reference number: "
+msgstr "Numero di riferimento: "
+
+msgid "This shipment was created in production API. Change API environment to production to process this shipment"
+msgstr "Questa spedizione è stata creata nell'API di produzione. Modifica l'ambiente API in produzione per elaborare questa spedizione"
+
+msgid "This shipment was created in sandbox API. Change API environment to sandbox to process this shipment"
+msgstr "Questa spedizione è stata creata nell'API sandbox. Cambia l'ambiente API in sandbox per elaborare questa spedizione"
+
+msgid "Selected parcel locker"
+msgstr "Punto di lotto selezionato"
+
+msgid "Selected parcel point"
+msgstr "Punto di lotto selezionato"
+
+msgid "Service:"
+msgstr "Servizio:"
+
+msgid "Status:"
+msgstr "Stato:"
+
+msgid "Not created yet (new)"
+msgstr "Non ancora creato (nuovo)"
+
+msgid "Tracking number:"
+msgstr "Codice di tracciamento spedizione:"
+
+msgid "Attributes:"
+msgstr "Attributi:"
+
+msgid "Remove"
+msgstr "Rimuovere"
+
+msgid "Size"
+msgstr "Dimensione"
+
+msgid "Send parcel"
+msgstr "Creare pacco"
+
+msgid "Get sticker(s)"
+msgstr "Ottenere etichette"
+
+msgid "Length:"
+msgstr "Lunghezza:"
+
+msgid "Width:"
+msgstr "Larghezza:"
+
+msgid "Height:"
+msgstr "Altezza:"
+
+msgid "Weight:"
+msgstr "Il peso:"
+
+msgid "Width"
+msgstr "Larghezza"
+
+msgid "Height"
+msgstr "Altezza"
+
+msgid "Non standard"
+msgstr "Non standard"
+
+msgid "yes"
+msgstr "sì"
+
+msgid "no"
+msgstr "no"
+
+msgid "Min"
+msgstr "Min"
+
+msgid "Max"
+msgstr "Max"
+
+msgid "Cost"
+msgstr "Costo"
+
+msgid "%"
+msgstr "%"
+
+msgid "Delete row"
+msgstr "Elimina riga"
+
+msgid "Insert row"
+msgstr "Inserisci riga"
+
+msgid "Are you sure?"
+msgstr "Sei sicuro?"
+
+msgid "Insurance amount: "
+msgstr "Importo assicurativo: "
+
+msgid "Parcel e-commerce InPost"
+msgstr "E-commerce pacchi InPost"
+
+msgid "Standard parcel locker shipment"
+msgstr "Spedizione Punto InPost"
+
+msgid "Standard parcel point shipment"
+msgstr "Spedizione Punto InPost"
+
+msgid "PassThru parcel (no logistics)"
+msgstr "PassThru parcel (no logistics)"
+
+msgid "Allegro InPost Parcel Lockers shipment"
+msgstr "Allegro InPost Parcel Lockers shipment"
+
+msgid "Allegro InPost Registered Mail shipment"
+msgstr "Allegro InPost Registered Mail shipment"
+
+msgid "Allegro InPost Courier shipment"
+msgstr "Allegro InPost Courier shipment"
+
+msgid "Standard Pallet courier shipment"
+msgstr "Standard Pallet courier shipment"
+
+msgid "Standard courier shipment"
+msgstr "Standard courier shipment"
+
+msgid "Courier shipment with delivery to 10 a.m. on the following day"
+msgstr "Courier shipment with delivery to 10 a.m. on the following day"
+
+msgid "Courier shipment with delivery to 12 p.m. on the following day"
+msgstr "Courier shipment with delivery to 12 p.m. on the following day"
+
+msgid "Courier shipment with delivery to 5 p.m. on the following day"
+msgstr "Courier shipment with delivery to 5 p.m. on the following day"
+
+msgid "Standard local courier service"
+msgstr "Standard local courier service"
+
+msgid "Express local courier service"
+msgstr "Express local courier service"
+
+msgid "Super Express local courier service"
+msgstr "Super Express local courier service"
+
+msgid "Unknown service"
+msgstr "Servizio sconosciuto"
+
+msgid "Any service"
+msgstr "Qualsiasi servizio"
+
+msgid "Length"
+msgstr "Lunghezza"
+
+msgid "Any status"
+msgstr "Qualsiasi stato"
+
+msgid "Not created yet"
+msgstr "Non ancora creato"
+
+msgid "Select Parcel Locker"
+msgstr "Seleziona Punto di consegna"
+
+msgid "Change Parcel Locker"
+msgstr "Cambia Punto di consegna"
+
+msgid "Select Parcel Point"
+msgstr "Seleziona Punto di consegna"
+
+msgid "Select parcel locker"
+msgstr "Seleziona punto di consegna"
+
+msgid "Select parcel point"
+msgstr "Seleziona punto di consegna"
+
+msgid "Selected Parcel Locker:"
+msgstr "Punto pacco selezionato:"
+
+msgid "Selected Parcel Point:"
+msgstr "Punto pacco selezionato:"
+
+msgid "Package(s) %s was sent."
+msgstr "Il pacchetto/i %s è stato inviato."
+
+msgid "Track shipment: "
+msgstr "Tracciare la spedizione: "
+
+msgid "Returns"
+msgstr "Ritorna"
+
+msgid "Selected parcel machine"
+msgstr "Punto pacco selezionato"
+
+msgid "S 8 x 38 x 64 cm"
+msgstr ""
+
+msgid "M 19 x 38 x 64 cm"
+msgstr ""
+
+msgid "L 41 x 38 x 64 cm"
+msgstr ""
+
+msgid "S"
+msgstr ""
+
+msgid "M"
+msgstr ""
+
+msgid "L"
+msgstr ""
+
+msgid "1 kg"
+msgstr ""
+
+msgid "2 kg"
+msgstr ""
+
+msgid "5 kg"
+msgstr ""
+
+msgid "10 kg"
+msgstr ""
+
+msgid "15 kg"
+msgstr ""
+
+msgid "20 kg"
+msgstr ""
+
+msgid "25 kg"
+msgstr ""
+
+msgid "Documentation"
+msgstr "Documentazione"
+
+#. Plugin Name of the plugin/theme
+msgid "InPost Italy"
+msgstr "InPost Italia"
+
+#. Plugin URI of the plugin/theme
+msgid "https://wordpress.org/plugins/inpost-italy/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "InPost for WooCommerce is a dedicated integration plugin, designed for small and medium-sized businesses that want to quickly and conveniently integrate with InPost services."
+msgstr "InPost per WooCommerce è un plug-in di integrazione dedicato, progettato per le piccole e medie imprese che desiderano integrarsi rapidamente e comodamente con i servizi InPost."
+
+#. Author of the plugin/theme
+msgid "iLabs LTD"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://ilabs.dev/"
+msgstr ""
+
+msgid "Set a flat-rate shipping for all orders"
+msgstr "Imposta una spedizione forfettaria per tutti gli ordini"
+
+msgid "Date created"
+msgstr "Data di creazione"
+
+msgid "Status change date"
+msgstr "Data del cambio di stato"
+
+msgid "Upload custom logo"
+msgstr "Carica logo personalizzato"
+
+msgid "InPost Courier C2C"
+msgstr "Corriere InPost C2C"
+
+msgid "Postal code"
+msgstr "Codice Postale"
+
+msgid "postal code"
+msgstr "codice postale"
+
+msgid "Building number"
+msgstr "Numero civico"
+
+msgid "building number"
+msgstr "numero civico"
+
+msgid "Add dispath point"
+msgstr "Aggiungi punto di percorso"
+
+msgid "Filter shipments by courier to show pickup options"
+msgstr "Filtra le spedizioni per corriere per mostrare le opzioni di ritiro"
+
+msgid "The configuration of the dispatch points is incomplete. The field %s is missing at pickup point #%s"
+msgstr "La configurazione dei punti di spedizione è incompleta. Il campo %s manca al punto di prelievo #%s"
+
+msgid "No dispatch points or wrong configuration. Add dispatch points on the InPost options page."
+msgstr "Nessun punto di spedizione o configurazione errata. Aggiungi punti di spedizione nella pagina delle opzioni InPost."
+
+msgid "Parcel locker label format"
+msgstr "Formato dell'etichetta dell'armadietto dei pacchi"
+
+msgid "Tax status"
+msgstr "Stato fiscale"
+
+msgid "Taxable"
+msgstr "Imponibile"
+
+msgid "None"
+msgstr "Nessuno"
+
+msgid "Help"
+msgstr "Aiuto"
+
+msgid "Documentation InPost:  "
+msgstr "Documentazione InPost:  "
+
+msgid "How to set up plugin"
+msgstr "Come impostare il plug-in"
+
+msgid "Upload"
+msgstr "Caricamento"
+
+msgid "Delete"
+msgstr "Elimina"
+
+msgid "Your order has been shipped"
+msgstr "Il tuo ordine è stato spedito"
+
+msgid "We have sent your order."
+msgstr "Abbiamo inviato il tuo ordine."
+
+msgid "Your tracking number: %s"
+msgstr "Il tuo codice di tracciamento spedizione: %s"
+
+msgid "Tracking link:"
+msgstr "Collegamento di tracciamento:"
+
+msgid "Do not provide InPost service if the weight of goods exceeds 25 Kg"
+msgstr "Non abilitare il servizio InPost se il peso complessivo supera i 25 Kg"
+
+msgid "Size S (8 x 38 x 64 cm)"
+msgstr "Dimensione S (8 x 38 x 64 cm)"
+
+msgid "Size M (19 x 38 x 64 cm)"
+msgstr "Dimensione M (19 x 38 x 64 cm)"
+
+msgid "Size L (41 x 38 x 64 cm)"
+msgstr "Dimensione L (41 x 38 x 64 cm)"
+
+msgid "Size S"
+msgstr "Dimensione S"
+
+msgid "Size M"
+msgstr "Dimensione M"
+
+msgid "Size L"
+msgstr "Dimensione L"
+
+msgid "Size (S, M, L)"
+msgstr "Dimensione (S, M, L)"
+
+msgid "Set a flat-rate shipping for size S"
+msgstr "Imposta una spedizione forfettaria per la taglia S"
+
+msgid "Set a flat-rate shipping for size M"
+msgstr "Imposta una spedizione forfettaria per la taglia M"
+
+msgid "Set a flat-rate shipping for size L"
+msgstr "Imposta una spedizione forfettaria per la taglia L"
+
+msgid "Attention!"
+msgstr "Attenzione!"
+
+msgid "Set the dimension in the settings of each product. The default value is size 'S'"
+msgstr "Imposta la dimensione nelle impostazioni di ogni prodotto. Il valore predefinito è la taglia 'S'"
+
+msgid "InPost parcel dimensions"
+msgstr "Dimensioni pacco InPost"
+
+msgid "Click to choose the default locker point on the map"
+msgstr "Fare clic per scegliere il punto di lotto predefinito sulla mappa"
+
+msgid "Click to choose the default parcel point on the map"
+msgstr "Fare clic per scegliere il punto di lotto predefinito sulla mappa"
+
+msgid "(free)"
+msgstr "(gratuito)"
+
+msgid "Choose a shipping method logo"
+msgstr "Scegli un logo per il metodo di spedizione"
+
+msgid "Choose Image"
+msgstr "Scegli Immagine"
+
+msgid "Change InPost point"
+msgstr "Cambia punto InPost"
+
+msgid "Select InPost Point"
+msgstr "Seleziona Punto InPost"
+
+msgid "Link to the external return portal"
+msgstr "Link al portale di reso esterno"
+
+msgid "Fast return"
+msgstr "Resi veloci"
+
+msgid "Graphic settings"
+msgstr "Impostazioni grafiche"
+
+msgid "Color setting for Inpost call to actions at the checkout"
+msgstr "Personalizza a checkout il colore dei pulsanti relativi al servizio InPost in base all'identità grafica del tuo negozio"
+
+msgid "Set other custom CSS if need."
+msgstr "Imposta altri CSS personalizzati se necessario."
+
+msgid "For example call map button has id: "
+msgstr "Ad esempio, il pulsante della mappa delle chiamate ha un ID: "
+
+msgid "Support & Additional services"
+msgstr "Supporto e servizi aggiuntivi"
+
+msgid "New API settings connection test passed."
+msgstr "Test di connessione delle nuove impostazioni API superato."
+
+msgid "Any point"
+msgstr "Qualsiasi punto"
+
+msgid "Please write to italysales@inpost.it"
+msgstr "Si prega di scrivere a italysales@inpost.it"
+
+msgid "Default parcel locker"
+msgstr "Armadietto per pacchi predefinito"
+
+msgid "Parcel point label format"
+msgstr "Formato etichetta punto pacco"
+
+msgid "Label format"
+msgstr "Formato dell'etichetta di spedizione"
+
+msgid "Selected InPost point"
+msgstr "Punto InPost selezionato"
+
+msgid "Type a city, address or postal code and select your choice. Or type an Inpost machine number and press magnifier icon"
+msgstr "Digita una città, un indirizzo o un codice postale e seleziona una delle opzioni suggerite. Oppure inserisci il codice di un punto Inpost e clicca su icona della lente d'ingrandimento"
+
+msgid "Authorization settings"
+msgstr "Impostazioni di autenticazione"
+
+msgid "Delivery options"
+msgstr "Impostazioni di spedizioni"
+
+msgid "Select color"
+msgstr "Seleziona colore"
+
+msgid "Customize the Inpost service description at the checkout in line with your current visual identity"
+msgstr "Personalizza a checkout la visualizazione della descrizione del servizio InPost in linea con l'identità grafica del tuo negozio"
+
+msgid "Save changes"
+msgstr "Salva modifiche"
+
+msgid "This credential will be provided by InPost after signing a contract."
+msgstr "Questa credenziale verrà fornita da InPost dopo la firma di un contratto."
+
+msgid "Need help with InPost orders or with plugin setup?"
+msgstr "Hai bisogno di aiuto per gli ordini InPost o con la configurazione del plugin?"
+
+msgid "Please contact InPost at  "
+msgstr "Per favore contatta InPost all'indirizzo  "
+
+msgid "Email to receive delivery updates"
+msgstr "Email per notifiche di spedizione"
+
+msgid "Mobile phone number to receive delivery updates"
+msgstr "Numero di telefono cellulare per notifiche di spedizione"
+
+msgid "Delivery Address for returns to sender"
+msgstr "Indirizzo in caso di resi al mittente"
+
+msgid "The number is not valid. Landline numbers or non-italian mobile numbers are not accepted."
+msgstr "Hai inserito un numero non valido. Numeri fissi o numeri mobili non italiani non sono accettati."
+
+msgid "Inpost Italy: We were unable to connect to the API within 60 seconds. Please try to re-save settings later or"
+msgstr "Inpost IT: Non siamo riusciti a connetterci all'API entro 60 secondi. Provare a salvare nuovamente le impostazioni più tardi o"
+
+msgid "contact to support"
+msgstr "contatto per il supporto"
+
+msgid "Your order has been given a tracking number"
+msgstr "Al vostro ordine è stato assegnato un numero di tracciamento"
+
+msgid "A tracking number has been given for your order. It will soon move on its journey"
+msgstr "È stato assegnato un numero di tracciamento per il vostro ordine. Presto inizierà il suo viaggio"
+
+msgid "Shipment already created"
+msgstr "Spedizione già creata"
+
+msgid "InPost Italy get labels"
+msgstr "InPost Italia ottenere le etichette"
+
+msgid "InPost Italy create shipments"
+msgstr "InPost Italia crea spedizioni"
+
+msgid "Merchant"
+msgstr "Informazioni aziendali"
+
+msgid "Company Name"
+msgstr "Nome Azienda"
+
+msgid "InPost point locker"
+msgstr "Locker o Punto InPost"
+
+msgid "Type of flow"
+msgstr "Tipo di flusso"
+
+msgid "Pick Up Address"
+msgstr "Indirizzo di ritiro"
+
+msgid "Collection at InPost Point"
+msgstr "Ritiro presso locker o punto InPost"
+
+msgid "Enable map button debug-mode"
+msgstr "Abilita la modalità di debug per la mappa"
+
+msgid "The package has not been created! Probably you do not have funds or a contract for InPost services"
+msgstr "Il pacchetto non è stato creato! Probabilmente non disponi di fondi o di un contratto per i servizi InPost"
+
+msgid "Is method Inpost enabled?"
+msgstr "Il metodo Inpost è abilitato?"
+
+msgid "Hide InPost if the cart exceeds the amount"
+msgstr "Non abilitare il servizio InPost se il totale del carrello supera"
+
+msgid "Selected InPost point: %s"
+msgstr "Punto InPost selezionato: %s"
+
+msgid "Hi %s"
+msgstr "Ciao %s"
+
+msgid "— No change —"
+msgstr "— Nessun cambiamento —"
+
+msgid "Billing address"
+msgstr "Indirizzo di fatturazione"
+
+msgid "Allow customers to pick up orders themselves. By default, when using local pickup store base taxes will apply regardless of customer address."
+msgstr "Consenti ai clienti di ritirare gli ordini da soli. Per impostazione predefinita, quando si utilizza il ritiro presso il negozio locale, le imposte di base verranno applicate indipendentemente dall'indirizzo del cliente."
+
+msgid "Coupons discounts"
+msgstr "Sconti coupon"
+
+msgid "Apply minimum order rule before coupon discount"
+msgstr "Applica la regola dell'ordine minimo prima dello sconto del coupon"
+
+msgid "If checked, free shipping would be available based on pre-discount order amount."
+msgstr "Se selezionato, la spedizione gratuita sarà disponibile in base all'importo dell'ordine pre-sconto."
